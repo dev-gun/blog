@@ -1,7 +1,7 @@
 ---
 date: '2020-12-22'
 draft: false
-title: Hashtable과 HashMap는 무슨 차이일까?
+title: test
 category: Data Structure
 image: https://user-images.githubusercontent.com/45007556/102892298-0342ce80-44a3-11eb-97cc-981365354e3a.png
 tags: ['Java', 'Data Structure']
