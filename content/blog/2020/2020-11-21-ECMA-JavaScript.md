@@ -1,7 +1,7 @@
 ---
 date: '2020-11-21'
 draft: false
-title: ECMAScript? ES? 그게 뭘까?
+title: "ECMAScript? ES? 그게 뭘까?"
 category: JavaScript
 tags: [JavaScript]
 image: https://user-images.githubusercontent.com/45007556/99826279-7c48c080-2b9b-11eb-8cce-3c92f971c803.png
